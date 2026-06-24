@@ -1,4 +1,7 @@
-Enunciado
+INTEGRANTES
+YAIR ANDRES TAPIERO GIL
+JUAN MANUEL CORTES PANIAGUA 
+Enunciado 
 
 En un cine, durante el estreno de una película muy esperada, se presenta una gran cantidad de personas que desean comprar entradas e ingresar a la función. Debido a la alta afluencia de usuarios, la administración del cine necesita organizar adecuadamente tanto la venta de boletos como el control de acceso a la sala.
 
