@@ -1,0 +1,7 @@
+YAIR ANDRES TAPIERO GIL
+JUAN MANUEL CORTES PANIAGUA
+
+
+SISTEMA DE VENTA DE ENTRADAS Y ENTREGA DE PEDIDOS EN UN CINE
+Desarrollar en lenguaje C una aplicación para gestionar la venta de entradas y la entrega de pedidos durante el estreno de una película. Los clientes que lleguen a la taquilla deberán registrarse en una cola con datos como documento y cantidad de entradas. Cada cliente será atendido respetando estrictamente el orden de llegada, aplicando el principio FIFO. Durante la compra del tiquete, el sistema deberá asignar una silla.
+Antes de finalizar la atención, se deberá preguntar al cliente si desea comprar productos de confitería, como palomitas, bebidas, dulces u otros alimentos. Los clientes que no realicen un pedido continuarán su proceso normal y no serán agregados a la pila. En cambio, para quienes sí compren productos, se deberá almacenar en una pila la silla asignada y el valor total del pedido (no es necesario los productos solo el valor pagado). Después de iniciada la película, los pedidos serán llevados a las respectivas sillas respetando el principio LIFO, por lo que el último pedido registrado será el primero en entregarse. De esta manera, la cola organiza la compra de entradas y la pila controla exclusivamente la entrega de los pedidos realizados.
