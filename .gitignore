@@ -1,0 +1,12 @@
+# Ejecutables
+*.exe
+
+# Archivos objeto
+*.o
+*.obj
+
+# Archivos temporales
+*.tmp
+
+# Archivos de registro
+*.log
